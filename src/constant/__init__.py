@@ -11,5 +11,5 @@ MONGO_DB_URL="mongodb+srv://pankaj:KuScvnivhYzKd9hS@cluster0.0b6bfy2.mongodb.net
 MODEL_FILE_NAME="model"
 MODEL_FILE_EXTENSION =".PKL"
 
-artifacts_folder ="artifacts"
+artifact_folder ="artifacts"
 
